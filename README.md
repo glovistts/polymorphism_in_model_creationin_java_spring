@@ -2,6 +2,8 @@
 
 This project showcases the implementation of inheritance in JPA entities, leveraging Spring Data JPA's auditing capabilities to track creation and updates of entities. The project defines a `BaseEntity` with common fields and audit annotations, allowing derived entities to automatically inherit those fields.
 
+![My Image](https://github.com/glovistts/polymorphism_in_model_creationin_java_spring/blob/master/Dark%20Navy%20%26%20Green%20Geometric%20Modern%20Computer%20Programmer%20What%20is%20Programming%20for%20Instagram%20Post%20(1).png)
+
 ## Features
 
 - **Inheritance with JPA Entities**: Demonstrates how to use `@MappedSuperclass` for inheritance, so common fields and behavior can be shared across multiple entities.

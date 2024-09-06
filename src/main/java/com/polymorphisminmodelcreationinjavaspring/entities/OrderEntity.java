@@ -1,4 +1,4 @@
-package com.polymorphisminmodelcreationinjavaspring.entities.product;
+package com.polymorphisminmodelcreationinjavaspring.entities;
 
 import com.polymorphisminmodelcreationinjavaspring.entities.BaseEntity;
 import jakarta.persistence.Entity;
@@ -8,14 +8,14 @@ import lombok.Setter;
 import org.hibernate.envers.Audited;
 
 @Entity
-@Table(name = "products")
+@Table(name = "orders")
 @Getter
 @Setter
 @Audited
-public class ProductEntity extends BaseEntity {
+public class OrderEntity extends BaseEntity {
 
-    private String name;
-    private String description;
-    private Double price;
+    private String orderNumber;
+    private Long customerId;
+    private Double totalAmount;
 
 }

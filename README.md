@@ -19,6 +19,9 @@ This project showcases the implementation of inheritance in JPA entities, levera
 - [Auditing Setup](#auditing-setup)
 - [License](#license)
 
+![My Image](https://github.com/glovistts/polymorphism_in_model_creationin_java_spring/blob/master/OrderEntity.png)
+
+
 ## Installation
 
 1. Clone the repository:

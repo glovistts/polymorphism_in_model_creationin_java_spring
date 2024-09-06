@@ -173,3 +173,7 @@ To enable auditing, the following configurations are included:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Post
+[Inheritance and Auditing with JPA Entities in Spring Boot](https://medium.com/@a.r.m.monesan_9577/inheritance-and-auditing-with-jpa-entities-in-spring-boot-9e09c3788907)
